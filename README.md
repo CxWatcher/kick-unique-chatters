@@ -2,7 +2,7 @@
 
 1. First you need a Browser Extension for managing UserScripts (skip if you already have one):  
    * Chrome: [Violentmonkey][chrome_violentmonkey] or [Tampermonkey][chrome_tampermonkey]
-   * Firefox: [Greasemonkey][firefox_greasemonkey], [Tampermonkey][firefox_tampermonkey], or [Violentmonkey][firefox_violentmonkey]  
+   * Firefox: [Tampermonkey][firefox_tampermonkey], or [Violentmonkey][firefox_violentmonkey]  
    * Opera: [Tampermonkey][opera_tampermonkey] or [Violentmonkey][opera_violentmonkey]
    * Brave: [Violentmonkey][chrome_violentmonkey] or [Tampermonkey][chrome_tampermonkey]
    * Edge: [Tampermonkey][edge_tampermonkey]  
@@ -20,7 +20,6 @@ Using third-party scripts means you trust that the script’s developer hasn’t
 <!-- Extensions -->
   [chrome_violentmonkey]: https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag
   [chrome_tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-  [firefox_greasemonkey]: https://addons.mozilla.org/firefox/addon/greasemonkey/
   [firefox_tampermonkey]: https://addons.mozilla.org/firefox/addon/tampermonkey/
   [firefox_violentmonkey]: https://addons.mozilla.org/firefox/addon/violentmonkey/
   [safari_tampermonkey]: https://github.com/victornpb/undiscord/issues/91#issuecomment-654514364
